@@ -43,13 +43,12 @@
 </a>
 
 <a href="https://www.linkedin.com/in/caio-alves-bezerra-6441073b4">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/caioalvess__">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</div>
 
 ---
 
