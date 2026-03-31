@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/caioalvess__">
+<a href="https://instagram.com/caioalvess.__">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
